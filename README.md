@@ -15,7 +15,6 @@ This Python script automates the process of creating weekly training record PDFs
 - [Requirements](#-requirements)
 - [Installation](#-installation)
 - [Usage Guide](#-usage-guide)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ## ✨ Features
